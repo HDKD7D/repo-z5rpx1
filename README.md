@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: yager123@aol.com, jaysbabydoll21@aol.com
-At: 2026-09-16 13:40:12
-Id: OkLAvCXF
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: ridgca1938@aol.com, abudbet@aol.com
+At: 2026-09-16 13:40:50
+Id: OHEoRTEd
